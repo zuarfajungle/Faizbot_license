@@ -1,1 +1,1 @@
-# Faizbot_licence
+# Faizbot_license
